@@ -1,0 +1,18 @@
+[*]
+# Use UTF - 8 encoding for international character support
+charset = utf-8
+# Unix - style line endings for cross - platform compatibility
+end_of_line = lf
+# 2 - space indentation for better readability
+indent_size = 2
+indent_style = space
+# Ensure a final newline at the end of the file
+insert_final_newline = true
+# Remove trailing whitespace to keep the code clean
+trim_trailing_whitespace = true
+
+[*.java]
+# add here specific rules for Java classes
+
+[*.json]
+# add here specific rules for JSON files
