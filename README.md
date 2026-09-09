@@ -19,5 +19,6 @@ La simulación utiliza un sistema de tiempo discreto donde cada paso actualiza e
 regiones. El sistema permite configurar el estado inicial mediante archivos JSON.
 Los resultados de la simulación se pueden visualizar en tiempo real y exportar en formato JSON para su análisis posterior.
 
-Este proyecto constituye la práctica de la asignatura de Tecnología de la Programación II de la Universidad Complutense
+Este proyecto por parejas constituye la práctica de la asignatura de Tecnología de la Programación II de la Universidad Complutense
 de Madrid del curso 2025/2026.
+
